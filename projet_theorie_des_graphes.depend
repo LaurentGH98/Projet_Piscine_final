@@ -1,0 +1,67 @@
+# depslib dependency file v1.0
+1618063124 source:c:\users\ghias\desktop\projet_theorie_des_graphes\main.cpp
+	<iostream>
+	"Graphe.h"
+
+1618057484 c:\users\ghias\desktop\projet_theorie_des_graphes\include\graphe.h
+	<vector>
+	<string>
+	<iostream>
+	"Sommet.h"
+	"Arc.h"
+
+1618057484 c:\users\ghias\desktop\projet_theorie_des_graphes\include\sommet.h
+	<string>
+	<vector>
+	<set>
+
+1618057484 c:\users\ghias\desktop\projet_theorie_des_graphes\include\arc.h
+	"Sommet.h"
+	<iostream>
+
+1618057484 source:c:\users\ghias\desktop\projet_theorie_des_graphes\src\arc.cpp
+	"Arc.h"
+
+1618063880 source:c:\users\ghias\desktop\projet_theorie_des_graphes\src\graphe.cpp
+	"Graphe.h"
+	<fstream>
+	<set>
+	<queue>
+
+1618063124 source:c:\users\ghias\desktop\projet_theorie_des_graphes\src\sommet.cpp
+	"Sommet.h"
+	<iostream>
+
+1618068759 source:c:\users\laurent\desktop\projetpiscinemajbfs\theorie_des_graphes_ing2\main.cpp
+	<iostream>
+	"Graphe.h"
+
+1618068759 c:\users\laurent\desktop\projetpiscinemajbfs\theorie_des_graphes_ing2\include\graphe.h
+	<vector>
+	<string>
+	<iostream>
+	"Sommet.h"
+	"Arc.h"
+
+1618068759 c:\users\laurent\desktop\projetpiscinemajbfs\theorie_des_graphes_ing2\include\sommet.h
+	<string>
+	<vector>
+	<set>
+
+1618068759 c:\users\laurent\desktop\projetpiscinemajbfs\theorie_des_graphes_ing2\include\arc.h
+	"Sommet.h"
+	<iostream>
+
+1618068759 source:c:\users\laurent\desktop\projetpiscinemajbfs\theorie_des_graphes_ing2\src\arc.cpp
+	"Arc.h"
+
+1618068759 source:c:\users\laurent\desktop\projetpiscinemajbfs\theorie_des_graphes_ing2\src\graphe.cpp
+	"Graphe.h"
+	<fstream>
+	<set>
+	<queue>
+
+1618068759 source:c:\users\laurent\desktop\projetpiscinemajbfs\theorie_des_graphes_ing2\src\sommet.cpp
+	"Sommet.h"
+	<iostream>
+
