@@ -5,7 +5,6 @@
 #include <queue> //pour BFS
 
 //HANDLE consoleHandle = GetStdHandle(STD_OUTPUT_HANDLE);//Ici, on récupère un handle vers ce qui représente la sortie standard sous Windows.
-
 using namespace std;
 
 ///constructeur
